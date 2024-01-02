@@ -33,13 +33,14 @@ ought to distinguish a specific undertaking that the information base framework 
 ## System Definition
 Describes scope and boundaries of database system and the major user views.
 
-### 1-System Boundaries & Scope
-
 <img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/898087ab-e2ec-4166-a9db-8e606cd1da12" width="500">
 
-### 2-Major User Views
-
 <img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/c7143c2e-3c5f-4f47-b4c5-6b50dffb8c37" width="500">
+
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/95e9e0f5-0a83-40af-a43e-cc7877e92dd0" width="500">
+
+
+
 
 
 
