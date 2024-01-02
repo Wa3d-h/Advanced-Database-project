@@ -33,5 +33,9 @@ ought to distinguish a specific undertaking that the information base framework 
 ## System Definition
 Describes scope and boundaries of database system and the major user views.
 
+###  System Boundaries & Scope
+
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/898087ab-e2ec-4166-a9db-8e606cd1da12" width="500">
+
 
 
