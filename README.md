@@ -112,7 +112,7 @@ That’s why primary key of Blood Bank manager is used as a foreign key in Blood
 2. MongoDB
 3. Amazon Simple Storage Service (S3)
 4. Elasticsearch
-5- recommend selection and produce report: 
+5. recommend selection and produce report: 
 
 
 
