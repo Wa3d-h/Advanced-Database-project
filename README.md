@@ -89,7 +89,7 @@ That’s why primary key of Blood Bank manager is used as a foreign key in Blood
 
 ## Logical database Design
 
-<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/0c0ad301-26c3-4f01-866f-52d763315141e" width="500">
 
 ## Physical database Design
 
