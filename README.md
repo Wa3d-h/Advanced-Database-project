@@ -39,6 +39,9 @@ Describes scope and boundaries of database system and the major user views.
 
 <img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/95e9e0f5-0a83-40af-a43e-cc7877e92dd0" width="500">
 
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/2ef27074-f0ec-4a25-9914-8d894e3a1afc" width="500">
+
+
 
 
 
