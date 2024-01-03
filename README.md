@@ -41,8 +41,19 @@ Describes scope and boundaries of database system and the major user views.
 
 <img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/2ef27074-f0ec-4a25-9914-8d894e3a1afc" width="500">
 
+## Conceptual database design (ER)
 
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
 
+## Logical database Design
+
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
+
+## Physical database Design
+
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
+
+## DBMS selection
 
 
 
