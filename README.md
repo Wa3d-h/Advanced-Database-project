@@ -45,6 +45,48 @@ Describes scope and boundaries of database system and the major user views.
 
 <img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
 
+## ER MAPPING SCHEMAS
+
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
+
+## RELATIONSHIP BETWEEN ENTITIES
+
+### 1.Staff and Donor:
+Relationship = “registers”
+Type of relation = 1 to many
+Explanation = One recording staff can register many donors.
+One donor will register with one recording officer.
+The relationship with Recording staff and Donor is 1 to many.
+That’s why primary key of Recording staff is used as a foreign key in Donor
+### 2. Staff and patients:
+Relationship =“record”
+Type of relation = 1 to many
+Explanation = One recording staff can record many patients. Onepatient will be
+recorded by one recording staff.
+The relationship with staff and patients is 1 to many.
+That’s why primary key of staff is used as a foreign key in patients.
+### 3. patients and Manager:
+Relationship =“requests in ”
+Type of relation = 1 to many
+Explanation = One patients can request blood to one manager and
+one manager can handle requests from many patients.
+The relationship with Blood Bank Manager and patients is 1 to
+many. That’s why primary key of Blood Manager is used as a foreign key in patients
+### 4. Hospital and Manager:
+Relationship =“gives order ”
+Type of relation = 1 to many
+Explanation = One Blood bank manager can handle and process
+requests from many hospitals. One hospital will place request to on blood bank manager
+The relationship with Blood Bank Manager and Hospital info is 1 to many.
+That’s why primary key of Blood Bank manager is used as a foreign key in Hospital info.
+### 5. Manager and Blood Specimen:
+Relationship =“deales with ”
+Type of relation = 1 to many
+Explanation = One Blood bank manager can manage many blood
+specimen and one specimen will be managed by one manager.
+The relationship with Blood Bank manager and Blood Specimen is 1 to many.
+That’s why primary key of Blood Bank manager is used as a foreign key in Blood Specimen
+
 ## Logical database Design
 
 <img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
@@ -54,6 +96,29 @@ Describes scope and boundaries of database system and the major user views.
 <img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
 
 ## DBMS selection
+
+### 1- Determine and study requirements:
+
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
+
+### 2- shortlist two or three products:
+- MySQL
+- MongoDB
+- Amazon Simple Storage Service (S3)
+- Elasticsearch
+
+### 3-evaluate products:
+1. MySQL
+2. MongoDB
+3. Amazon Simple Storage Service (S3)
+4. Elasticsearch
+5- recommend selection and produce report: 
+
+
+
+
+
+
 
 
 
