@@ -99,7 +99,7 @@ That’s why primary key of Blood Bank manager is used as a foreign key in Blood
 
 ### 1- Determine and study requirements:
 
-<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/85f53284-4632-4e5b-ad06-659ae0397268" width="500">
 
 ### 2- shortlist two or three products:
 - MySQL
