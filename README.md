@@ -47,7 +47,7 @@ Describes scope and boundaries of database system and the major user views.
 
 ## ER MAPPING SCHEMAS
 
-<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/a88ddcfc-d812-4796-893a-b938e14228ce" width="500">
+<img src="https://github.com/Wa3d-h/Advanced-Database-project/assets/102664990/cdece1f7-eb3c-43ff-9e2d-a82093aebcf1" width="500">
 
 ## RELATIONSHIP BETWEEN ENTITIES
 
